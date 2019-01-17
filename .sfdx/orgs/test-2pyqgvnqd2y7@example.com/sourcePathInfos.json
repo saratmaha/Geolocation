@@ -36,10 +36,10 @@
             "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1547739114435,
-            "changeTime": 1547739114435,
-            "contentHash": "8d4a9a94672f3c47f2fa4df8ea9948d361c224f2"
+            "size": 288,
+            "modifiedTime": 1547739929423,
+            "changeTime": 1547739929423,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
@@ -47,14 +47,13 @@
         {
             "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1547585056929,
-            "changeTime": 1547585056929,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "size": 96,
+            "modifiedTime": 1547739634116,
+            "changeTime": 1547739634116,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -62,14 +61,13 @@
         {
             "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation",
             "isDirectory": true,
-            "size": 256,
-            "modifiedTime": 1547736469588,
-            "changeTime": 1547736469588,
-            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "size": 320,
+            "modifiedTime": 1547738387202,
+            "changeTime": 1547738387202,
+            "contentHash": "b500e0cc0fe528e3c3beb5f312ce13c9ab3dbcb9",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -140,14 +138,14 @@
     [
         "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 18112,
-            "modifiedTime": 1547737548618,
-            "changeTime": 1547737548618,
-            "contentHash": "194ee977b32bfea646d27c381ed477623deda5c0",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 18199,
+            "modifiedTime": 1547739929457,
+            "changeTime": 1547739929457,
+            "contentHash": "5123388c414ceef0986f36f8d529b47c9abf733d"
         }
     ],
     [
@@ -218,14 +216,14 @@
     [
         "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/profiles",
         {
+            "state": "u",
             "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1547737548618,
-            "changeTime": 1547737548618,
-            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 192,
+            "modifiedTime": 1547739929434,
+            "changeTime": 1547739929434,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ],
     [
@@ -244,40 +242,235 @@
     [
         "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1547739205203,
             "changeTime": 1547739205203,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 292,
             "modifiedTime": 1547739205203,
             "changeTime": 1547739207495,
-            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7"
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1547739114485,
             "changeTime": 1547739114485,
-            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47"
+            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1547739666778,
+            "changeTime": 1547739666778,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1547739634120,
+            "changeTime": 1547739634120,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1547739666765,
+            "changeTime": 1547739666786,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1547739634117,
+            "changeTime": 1547739634117,
+            "contentHash": "031f43b37d7bb45e1a9e19859d572e3a7f2d1d85",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "size": 130,
+            "modifiedTime": 1547739706932,
+            "changeTime": 1547739706932,
+            "contentHash": "2fa3f93bf37f3124658447a21f90ef4fa79db519",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1547739634120,
+            "changeTime": 1547739634120,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1547739634120,
+            "changeTime": 1547739634120,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1547739634118,
+            "changeTime": 1547739634118,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1547739634118,
+            "changeTime": 1547739634118,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1547739634119,
+            "changeTime": 1547739634119,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1547739929425,
+            "changeTime": 1547739929425,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4676,
+            "modifiedTime": 1547739929428,
+            "changeTime": 1547739929428,
+            "contentHash": "fd1e6c74f4e46833342e9c7c9d74cc3af3fded29"
+        }
+    ],
+    [
+        "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5016,
+            "modifiedTime": 1547739929431,
+            "changeTime": 1547739929431,
+            "contentHash": "b2b544ad2e99c14072e4bfdeb68699b788f40af7"
+        }
+    ],
+    [
+        "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4680,
+            "modifiedTime": 1547739929434,
+            "changeTime": 1547739929434,
+            "contentHash": "87ba65b89e99b40ff6ed5546407705fc6a63aaa5"
+        }
+    ],
+    [
+        "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sxm613/Desktop/My_Stuff/TrailHead/Sarat_SFDX/my_sfdx_project/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1547739929425,
+            "changeTime": 1547739929425,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
         }
     ]
 ]
